@@ -1,8 +1,8 @@
 # 🏅 Certifications & Awards  
 
-Welcome to my **Digital Certifications Portfolio** — a curated collection of my **academic, Microsoft, Pragmatic Works, and professional awards** that reflect my growth as a **Data Analyst, Business Analyst, and Power Platform Developer**.  
+Welcome to my **Digital Certifications Portfolio**, a curated collection of my **academic, Microsoft, Pragmatic Works, and professional awards** that reflect my growth as a **Data Analyst, Business Analyst, and Power Platform Developer**.  
 
-Each credential represents more than completion — it’s the foundation of the skills I apply daily in data storytelling, automation design, and intelligent business systems.
+Each credential represents more than completion, it’s the foundation of the skills I apply daily in data storytelling, automation design, and intelligent business systems.
 
 ---
 
