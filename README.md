@@ -32,7 +32,7 @@ Each credential represents more than completion, it’s the foundation of the sk
 |---------------|------|------------------|-------------------------|
 | 📊 **Power BI Data Analyst** | PL-300 | Data Visualization & Modeling | Built enterprise dashboards for reporting and KPI tracking. |
 | ⚡ **Power Platform Fundamentals** | PL-900 | Automation & Low-Code Apps | Established my foundation in Microsoft’s automation ecosystem. |
-| 💼 **Dynamics 365 Sales Implementation** | MB-910 | CRM Workflow Automation | Enabled me to customize Lead-to-Cash processes for business optimization. |
+| 💼 **Dynamics 365 Sales Implementation** | Microsoft | CRM Workflow Automation | Enabled me to customize Lead-to-Cash processes for business optimization. |
 | ☁️ **Azure DevOps for Project Managers** | — | ALM & Agile Delivery | Enhanced my ability to manage solution deployment and collaboration pipelines. |
 
 ---
